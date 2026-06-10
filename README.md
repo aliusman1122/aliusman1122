@@ -69,7 +69,6 @@ Expect a mix of:
   <img src="https://img.shields.io/badge/AI%20Developer-%F0%9F%A4%96-blue" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%94%AC-orange" />
   <img src="https://img.shields.io/badge/Python-%F0%9F%90%8D-yellow" />
-  <img src="https://img.shields.io/badge/Unity%20Dev-%F0%9F%8E%AE-black" />
   <img src="https://img.shields.io/badge/LLM%20Engineer-%F0%9F%A4%97-purple" />
 </p>
 
